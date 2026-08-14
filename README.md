@@ -2,8 +2,6 @@
 
 A personal freelance sales CRM with AI-powered outreach generation. Built to solve a real workflow problem: manually copying prospect data into a chat window to generate cold DMs, then doing it again 24 hours later for follow-ups.
 
-**Live demo:** [prospect-tracker-tawny.vercel.app](https://prospect-tracker-tawny.vercel.app)
-
 ---
 
 ## What it does
